@@ -64,8 +64,3 @@ set noexpandtab
 set foldcolumn=0
 
 set colorcolumn=81
-if &background == "light"
-  highlight ColorColumn guibg=#000000 guifg=7
-else
-  highlight ColorColumn guibg=#000000 guifg=0
-endif
