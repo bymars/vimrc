@@ -32,7 +32,7 @@ set guioptions-=l
 set guioptions-=L
 
 " Colorscheme
-    set background=light
+    set background=dark
 if has("gui_running")
     colorscheme solarized
 else
